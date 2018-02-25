@@ -1,0 +1,2 @@
+# BORINGbot
+A Bot
