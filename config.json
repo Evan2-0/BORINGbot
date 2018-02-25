@@ -1,9 +1,4 @@
 {
-  "token":"process.env.MzgxODcyOTY2ODY4NDAyMTc2.DPNehQ.v5P37Ob2JrUE62mF41Gks_L3lyo",
-  "prefix":"%",
-  "ownerID":"259737069620953089"
-}
-{
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
@@ -15,4 +10,9 @@
     "discord.js": "11.1.0",
     "request": "2.81.0"
   }
+}
+{
+  "token":"process.env.MzgxODcyOTY2ODY4NDAyMTc2.DPNehQ.v5P37Ob2JrUE62mF41Gks_L3lyo",
+  "prefix":"%",
+  "ownerID":"259737069620953089"
 }
